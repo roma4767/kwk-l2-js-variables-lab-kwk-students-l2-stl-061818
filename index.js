@@ -1,5 +1,5 @@
 const companyName = 'Scuber';
 
 if (companyName !== 'Scuber') {
-  return TypeError
-};
+  return TypeError;
+}
